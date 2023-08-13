@@ -11,5 +11,8 @@ Please cite our paper if you find this code helpful to your research:
   author={Wu, Hanrui and Wong, Chung Wang and Zhang, Jia and Yan, Yuguang and Yu, Dahai and Long, Jinyi and Ng, Michael},  
   journal={IEEE Transactions on Services Computing (TSC)},    
   year={2023},  
+  volume={16},  
+  number={4},  
+  pages={2477-2489},  
   publisher={IEEE}  
 }
